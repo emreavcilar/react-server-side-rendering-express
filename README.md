@@ -1,3 +1,15 @@
+This is a simple react server side rendering template example. This template mainly includes;
+
+<ul>
+    <li>React</li>
+    <li>Express</li>
+    <li>Redux</li>
+    <li>Axios</li>
+</ul>
+
+and some other helper libraries.
+
+
 **Setup**
 
 **yarn install**
